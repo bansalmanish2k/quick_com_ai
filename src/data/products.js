@@ -1,0 +1,17 @@
+export const PRODUCTS = [
+  { id: 1, name: 'Fresh Apples (Kashmir)', price: 120, emoji: '🍎', category: 'Fresh Fruits', weight: '1 kg' },
+  { id: 2, name: 'Robusta Bananas', price: 60, emoji: '🍌', category: 'Fresh Fruits', weight: '500 g' },
+  { id: 3, name: 'Whole Wheat Bread', price: 45, emoji: '🍞', category: 'Bakery & Bread', weight: '1 Pack' },
+  { id: 4, name: 'Full Cream Milk', price: 65, emoji: '🥛', category: 'Dairy', weight: '1 L' },
+  { id: 5, name: 'Farm Fresh Eggs', price: 80, emoji: '🥚', category: 'Dairy & Eggs', weight: '12 Pieces' },
+  { id: 6, name: 'Organic Potatoes', price: 30, emoji: '🥔', category: 'Vegetables', weight: '1 kg' },
+  { id: 7, name: 'Hybrid Tomatoes', price: 40, emoji: '🍅', category: 'Vegetables', weight: '1 kg' },
+  { id: 8, name: 'Red Onions', price: 35, emoji: '🧅', category: 'Vegetables', weight: '1 kg' },
+  { id: 9, name: 'Juicy Carrots', price: 25, emoji: '🥕', category: 'Vegetables', weight: '500 g' },
+  { id: 10, name: 'Cheddar Cheese Slices', price: 110, emoji: '🧀', category: 'Dairy', weight: '200 g' },
+  { id: 11, name: 'Fresh Green Peas', price: 40, emoji: '🫛', category: 'Vegetables', weight: '500 g' },
+  { id: 12, name: 'Alphonso Mangoes', price: 350, emoji: '🥭', category: 'Fresh Fruits', weight: '1 Dozen' },
+  { id: 13, name: 'Butter Croissant', price: 80, emoji: '🥐', category: 'Bakery & Bread', weight: '2 Pieces' },
+  { id: 14, name: 'Amul Butter', price: 58, emoji: '🧈', category: 'Dairy', weight: '100 g' },
+  { id: 15, name: 'Strawberry Yogurt', price: 45, emoji: '🍓', category: 'Dairy', weight: '120 g' },
+];
